@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KaKaoLinkExample</string>
+
+    <string name="kakao_app_key">앱키</string>
+    <string name="kakao_scheme">kakao + 앱키</string> <!-- 앱키가 AAA 면 kakaoAAA-->
+    <string name="kakaolink_host">kakaolink</string>
+</resources>
